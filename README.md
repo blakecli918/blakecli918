@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Blake (@blakecli918) 👋
 
-<!--
-**blakecli918/blakecli918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Amsterdam at Tech Labs. I build reliable distributed services, tune Postgres queries, and try to make APIs fast.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 🔨 Writing high-throughput services with Go and FastAPI
+- 📚 Reading up on distributed systems and internals of storage engines
+- ⚙️ Automating local dev envs and container workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Core Tech
+- **Languages:** Go, Python, SQL, Bash
+- **Data / Storage:** PostgreSQL, Redis
+- **Tools / Infra:** Docker, Linux, Git
+
+#### Contact
+- Email: blake.cli918@proton.me
+- LinkedIn: linkedin.com/in/blakecli918
